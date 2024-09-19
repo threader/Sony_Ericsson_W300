@@ -1,0 +1,8 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;Allows Use of Camera when a Java application/game is open.
+;(c) SiNgle, Mobilefree.ru, Sunfire7
+;(p) stuCk, a.k.a. austrk.
++44140000
+
+12A8688: 05D0 05E0

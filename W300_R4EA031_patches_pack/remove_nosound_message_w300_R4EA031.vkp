@@ -1,0 +1,9 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;Removes 'nosound' message when you turn ON silent mode.
+;(ñ) Phenomen, YAR, Mobilefree
+;(p) stuCk, a.k.a. austrk.
++44140000
+
+FA9B92: 09D1 09E0
+10F6534: 0021 08E0

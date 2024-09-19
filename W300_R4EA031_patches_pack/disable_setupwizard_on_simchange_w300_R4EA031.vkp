@@ -1,0 +1,8 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;this patch disables setupwizard on simcard change
+;(ñ) SiNgle
+;(c) stuCk, a.k.a. austrk.
++44140000
+
+10F5B00: 02D1 08E0

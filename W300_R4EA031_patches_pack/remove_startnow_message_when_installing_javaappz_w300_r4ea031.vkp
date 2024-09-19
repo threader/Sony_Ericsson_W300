@@ -1,0 +1,9 @@
+;w300 FW-R4EA031
+;patch to delete the annoying msg "Start Now?" when installing a new Java app/game.
+;there is no need of faggot terms now.
+;(c) stuCk
+;http://miw300.lost.away.org  OR  http://miw300.tk
+
+453D7404: 094A 0BE0
+
+

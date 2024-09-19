@@ -1,0 +1,8 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;change folder tpa/preset/system/ams to usb/other/ams
+;PN, after applying this patch you will have to install again your Java Content.
+;(c) stuCk, a.k.a. austrk.
++44140000
+
+50C1D6: 7400700061002F007000720065007300650074002F00730079007300740065006D002F0061006D0073 7500730062002F006F0074006800650072002F0061006D007300000000000000000000000000000000

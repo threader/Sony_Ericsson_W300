@@ -1,0 +1,7 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;Removes Charging Messages.
+;(p) stuCk, a.k.a. austrk.
++44140000
+
+EC2390: 0022 18E0

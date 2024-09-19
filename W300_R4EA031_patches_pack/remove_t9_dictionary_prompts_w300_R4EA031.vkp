@@ -1,0 +1,9 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;Remove Prompts: "Word not found in the dictionary" & "Added to word list" when using T9.
+;(c) IronMaster
+;(p) stuCk, a.k.a. austrk.
++44140000
+
+11174C6: 00F049F802E0 C046C046C046; Added to word list
+1118110: FFF766FA C046C046; The word is not found in the dictionary

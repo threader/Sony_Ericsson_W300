@@ -1,0 +1,16 @@
+;w300 FW-R4EA031
+;patch to change the duration of sms alert.
+;(c) stuCk
+;http://miw300.lost-away.org   /  http://miw300.tk
+;
+;
+;delete only first dot&comma depending of the duration do u want.
+;pss.. just delete one. lol.
+;default comes for 60secs, if you want less, add a dot&comma to the line of 60secs.
+
++441289B9
+
+;12E3217: 10270000 60EA0000 ;60 secs
+12E3217: 10270000 C8AF0000 ;45 secs
+;12E3217: 10270000 30750000 ;30 secs
+;12E3217: 10270000 204E0000 ;20secs

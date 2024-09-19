@@ -1,0 +1,7 @@
+;w300 FW-R4EA031
+;patch to delete all the annoying java security messages to allow access to browse files, etc.
+;(c) stuCk
+;http://miw300.lost.away.org  OR  http://miw300.tk
+
+454EADD7: D0 E0
+454EADDC: 00 01

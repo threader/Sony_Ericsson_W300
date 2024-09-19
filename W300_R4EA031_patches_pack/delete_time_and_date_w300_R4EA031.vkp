@@ -1,0 +1,9 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;Delete Time & Date from Main Screen.
+;(C) Mobilefree
+;(p) stuCk, a.k.a. austrk.
++44140000
+
+10F4D68: A6F6CEFE C046C046
+10F4D72: A6F6C9FE C046C046

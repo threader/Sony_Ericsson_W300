@@ -1,0 +1,8 @@
+;W300 FW-R4EA031
+;patch to listen radio without headsets
+;original by Phenomen & aosgsm
+;ported to FW-R4EA031 by
+;(c) stuCk
+;http://miw300.lost-away.org  OR http://miw300.tk
+
+45588580: 01D1 01E0

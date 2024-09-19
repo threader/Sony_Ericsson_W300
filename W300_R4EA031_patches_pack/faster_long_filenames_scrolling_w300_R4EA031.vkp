@@ -1,0 +1,11 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;faster long filename scrolling.
+;(c) SiNgle
+;(p) stuCk, a.k.a. austrk.
++44140000
+
+113C5D8: FA21 4A21
+113C6C0: FA21 4A21
+113C7B8: FA21 4A21
+113C815: 0B 05

@@ -1,0 +1,8 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;Enable Use of Flash Wallpapers, as if it were Normal Images. Right Click on the SWF File
+;And select "Set as wallpaper".
+;(c) stuCk, a.k.a. austrk.
++44140000
+
+517B16: 6A00700065 7300770066

@@ -1,0 +1,7 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;Change Default name of Recorded VideoFiles to VIDXXXX instead of MOVXXXX
+;(c) stuCk, a.k.a. austrk.
++44140000
+
+51DDE1: 004D004F005600 00560049004400

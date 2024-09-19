@@ -1,0 +1,8 @@
+;w3oo Fw-R4EA031
+;for http://miw300.lost-away.org
+;Remove "Warning: loud ringtones could damage your hearing" when selecting volume of 7-8.
+;(c) Phenomen
+;(p) stuCk, a.k.a. austrk.
++44140000
+
+FA9528: 08D3 08E0
